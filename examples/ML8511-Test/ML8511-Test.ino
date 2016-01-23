@@ -1,5 +1,8 @@
 /***************************************************************************
-  This is a library for the BMP280 humidity, temperature & pressure sensor
+  sample sketch to test the ML8511 library
+  
+  Pin A0 --> ML8511 sensor "out"
+  Pin A1 --> Arduino 3V3 reference
 
  ***************************************************************************/
 
